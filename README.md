@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 Hello, nice to meet you! My name is Agustín Pereira, currently working as a SW Developer at SAICO Sistemas, actually learning more about JS, Angular, Node, React technologies. More info in my LinkedIn https://www.linkedin.com/in/agustin-pereira-6791a410b/ .
 
-Soon my personal web page. 😄
+Soon i'll be developing my personal web page. 😄
 
