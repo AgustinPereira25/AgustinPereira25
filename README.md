@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, nice to meet you! My name is Agustín Pereira, currently working as a SW Developer at SAICO Sistemas, actually learning more about JS, Angular, React, Java and C# technologies. More info in my LinkedIn https://www.linkedin.com/in/agustin-pereira-6791a410b/ .
+Hello, nice to meet you! My name is Agustín Pereira, currently working as a SW Developer at SAICO Sistemas, actually learning more about JS, Angular, React, and C# technologies. More info in my LinkedIn https://www.linkedin.com/in/agustin-pereira-6791a410b/ .
 
 Soon i'll be developing my personal web page. 😄
 
