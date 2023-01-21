@@ -11,8 +11,14 @@ I Love encourage people when things doesn't go as we plan, always positive, "...
 
 
 <h3>:coffee:Developed web apps:</h3>
-- https://pokemon-static-eosin.vercel.app/ (Pokemon App developed with **NextJS(ReactJS)** using **NextUI**) implementing SSG (Static Site Generation).
-- https://github.com/AgustinPereira25/OpenJira (Gif in my Readme.md)
+<ul>
+  <li>https://pokemon-static-eosin.vercel.app/ (Pokemon App developed with **NextJS(ReactJS)** using **NextUI**) implementing SSG (Static Site Generation).</li>
+  <li>https://github.com/AgustinPereira25/OpenJira (Task managing App with Drag & Drop and Notistack feature) </li>
+</ul>
+
+
+
+
 
 
 <h3>:star:**Soft Skills**:</h3>
