@@ -10,14 +10,11 @@ Nowadays, I'm close to having my **Bachelor's Degree in Computer Systems** at <a
 I Love encourage people when things doesn't go as we plan, always positive, "...After the rain, appears the sun..." :grin: </h4>
 
 
-<h3>:coffee:Developed web apps:</h3>
+<h3>:coffee:Some developed web apps:</h3>
 <ul>
   <li>https://pokemon-static-eosin.vercel.app/ (Pokemon App developed with **NextJS(ReactJS)** using **NextUI**) implementing SSG (Static Site Generation).</li>
-  <li>https://github.com/AgustinPereira25/OpenJira (Task managing App with Drag & Drop and Notistack feature) </li>
+  <li>https://github.com/AgustinPereira25/OpenJira (Task managing App in NextJS (React) with Drag & Drop and Notistack feature, using MaterialUI) </li>
 </ul>
-
-
-
 
 
 
