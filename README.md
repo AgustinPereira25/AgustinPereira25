@@ -28,11 +28,8 @@ I Love encourage people when things doesn't go as we plan, always positive, "...
   - Flexibility
   - Ability to negotiate
 
-:books:**Currently learning more About Next.JS with TypeScript and React library**, learning about:
-- Middlewares
-- SSG
-- ISR
-- ISG
+:books:**Currently learning more About Next.JS, TypeScript, React, docker, mongoDB**
+
 
  More info in my  ***<a href="https://www.linkedin.com/in/agustin-pereira-6791a410b/" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn</a>***.
 
