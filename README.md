@@ -13,11 +13,9 @@ I Love encourage people when things doesn't go as we plan, always positive, "...
 <h3>:coffee:Some developed web apps:</h3>
 <ul>
   <li>https://pokemon-static-eosin.vercel.app/ (Pokemon App developed with **NextJS(ReactJS)** using **TailwindCSS**) implementing SSG (Static Site Generation).</li>
-  <li>https://github.com/AgustinPereira25/OpenJira (Task managing App in NextJS (React) with Drag & Drop and Notistack feature, using MaterialUI) </li>
+  <li>https://github.com/AgustinPereira25/OpenJira (Task managing App in NextJS (React) with Drag & Drop and Notistack feature, using MaterialUI and TailwindCSS) </li>
   <li>https://teslo-shop-8xa0.onrender.com/  (TesloShop app inspired in Tesla Shop site, using Next.JS)</li>
 </ul>
-
-
 
 <h3>:star:**Soft Skills**:</h3>
 
