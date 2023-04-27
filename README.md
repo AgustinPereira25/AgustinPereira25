@@ -17,6 +17,13 @@ I Love encourage people when things doesn't go as we plan, always positive, "...
   <li>https://teslo-shop-8xa0.onrender.com/  (TesloShop app inspired in Tesla Shop site, using Next.JS)</li>
 </ul>
 
+<p><h3>:construction:Currently developing:</h3> <a href="https://github.com/AgustinPereira25/health-submissions">HealthCare-based App</a></p>
+<ul>
+  <li>Stack: React / NodeJS (Next.JS FullStack)</li>
+  <li>UI(User Interface): TailwindCSS and MaterialUI</li>
+  <li>File storage in <a href="https://cloudinary.com/">Cloudinary</a> (**Pending)</li>
+</ul>
+
 <h3>:star:**Soft Skills**:</h3>
 
   - Leadership
@@ -26,7 +33,7 @@ I Love encourage people when things doesn't go as we plan, always positive, "...
   - Flexibility
   - Ability to negotiate
 
-:books:**Currently learning more About Next.JS, TypeScript, React, docker, mongoDB**
+:books:**Currently learning more About Fullstack frameworks, TypeScript, React, docker, mongoDB, SQL**
 
 
  More info in my  ***<a href="https://www.linkedin.com/in/agustin-pereira-6791a410b/" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn</a>***.
