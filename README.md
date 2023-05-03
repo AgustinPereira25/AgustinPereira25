@@ -34,7 +34,7 @@ I Love encourage people when things doesn't go as we plan, always positive, "...
   - Flexibility
   - Ability to negotiate
 
-:books:**Currently learning more About Fullstack frameworks, TypeScript, React, docker, mongoDB, SQL**
+:books:**Currently learning more About Fullstack/BackEnd frameworks, TypeScript, React, docker, mongoDB, SQL**
 
 
  More info in my  ***<a href="https://www.linkedin.com/in/agustin-pereira-6791a410b/" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn</a>***.
