@@ -20,6 +20,7 @@ I Love encourage people when things doesn't go as we plan, always positive, "...
 <p><h3>:construction:Currently developing:</h3> <a href="https://github.com/AgustinPereira25/health-submissions">HealthCare-based App</a></p>
 <ul>
   <li>Stack: React / NodeJS (Next.JS FullStack)</li>
+  <li>Data storage: Relational DB (MySQL)</li>
   <li>UI(User Interface): TailwindCSS and MaterialUI</li>
   <li>File storage in <a href="https://cloudinary.com/">Cloudinary</a> (**Pending)</li>
 </ul>
