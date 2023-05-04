@@ -22,7 +22,7 @@ I Love encourage people when things doesn't go as we plan, always positive, "...
   <li>Stack: React / NodeJS (Next.JS FullStack)</li>
   <li>Data storage: Relational DB (MySQL)</li>
   <li>UI(User Interface): TailwindCSS and MaterialUI</li>
-  <li>File storage in <a href="https://cloudinary.com/">Cloudinary</a> (**Pending)</li>
+  <li>File storage in <a href="https://cloudinary.com/">Cloudinary</a></li>
 </ul>
 
 <h3>:star:**Soft Skills**:</h3>
