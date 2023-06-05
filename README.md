@@ -2,7 +2,7 @@
 
 Hello, nice to meet you! My name is Agustín Pereira, from Montevideo, Uruguay :grin:
 
-💻 Currently working as a SW Developer at SAICO Sistemas, actually learning more about JS, TS and React/NextJS. 
+💻 Currently working as a SW Developer at Mercado Libre, actually learning more about JS, TS and React/NextJS. 
 
 Nowadays, I'm close to having my **Bachelor's Degree in Computer Systems** at <a href="https://ude.edu.uy/facultad-de-ingenieria/licenciatura-en-informatica/">UDE - Universidad De la empresa</a>
 
